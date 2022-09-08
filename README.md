@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ###One simple demo based on VUE and Element UI
-backend url: https://gitee.com/captainslow/backend-demo
+backend url: https://github.com/captain-fat/backend-demo-master
